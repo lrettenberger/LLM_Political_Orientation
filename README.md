@@ -27,9 +27,4 @@ We assess models by their agreement with political statements, using prompt engi
 2. **Party Alignment:**
  Compares model responses with positions of 14 political parties in the European Parliament from a German voter's perspective.
 
-## How to Run
 
-1. **Clone the Repository:**
- ```bash
- git clone https://github.com/yourusername/political-statement-evaluation.git
- cd political-statement-evaluation
