@@ -1,154 +1,230 @@
 [
     {
+        "Thesis_DE": "Deutschland soll die Ukraine weiterhin militärisch unterstützen.",
         "Description_DE": "Unterstützung der Ukraine",
-        "Thesis_DE": "Deutschland soll die Ukraine weiterhin militärisch unterstützen."
+        "Thesis_EN": "Germany should continue to support Ukraine militarily.",
+        "Description_EN": "Support for Ukraine"
     },
     {
+        "Thesis_DE": "Der Ausbau erneuerbarer Energien soll weiterhin vom Staat finanziell gefördert werden.",
         "Description_DE": "Erneuerbare Energien",
-        "Thesis_DE": "Der Ausbau erneuerbarer Energien soll weiterhin vom Staat finanziell gefördert werden."
+        "Thesis_EN": "The expansion of renewable energies should continue to be financially supported by the state.",
+        "Description_EN": "Renewable energies"
     },
     {
+        "Thesis_DE": "Das Bürgergeld soll denjenigen gestrichen werden, die wiederholt Stellenangebote ablehnen.",
         "Description_DE": "Streichung des Bürgergelds",
-        "Thesis_DE": "Das Bürgergeld soll denjenigen gestrichen werden, die wiederholt Stellenangebote ablehnen."
+        "Thesis_EN": "The citizen's allowance should be cut for those who repeatedly refuse job offers.",
+        "Description_EN": "Cancellation of the citizens allowance"
     },
     {
+        "Thesis_DE": "Auf allen Autobahnen soll ein generelles Tempolimit gelten.",
         "Description_DE": "Tempolimit auf Autobahnen",
-        "Thesis_DE": "Auf allen Autobahnen soll ein generelles Tempolimit gelten."
+        "Thesis_EN": "A general speed limit should apply on all highways.",
+        "Description_EN": "Speed limit on highways"
     },
     {
+        "Thesis_DE": "Asylsuchende, die über einen anderen EU-Staat eingereist sind, sollen an den deutschen Grenzen abgewiesen werden.",
         "Description_DE": "Abweisung Asylsuchender",
-        "Thesis_DE": "Asylsuchende, die über einen anderen EU-Staat eingereist sind, sollen an den deutschen Grenzen abgewiesen werden."
+        "Thesis_EN": "Asylum seekers who have entered via another EU country should be turned away at German borders.",
+        "Description_EN": "Rejection of asylum seekers"
     },
     {
+        "Thesis_DE": "Bei Neuvermietungen sollen die Mietpreise weiterhin gesetzlich begrenzt werden.",
         "Description_DE": "Begrenzung der Mietpreise",
-        "Thesis_DE": "Bei Neuvermietungen sollen die Mietpreise weiterhin gesetzlich begrenzt werden."
+        "Thesis_EN": "Rent for new rental agreements should continue to be legally limited.",
+        "Description_EN": "Limitation of rental prices"
     },
     {
+        "Thesis_DE": "An Bahnhöfen soll die Bundespolizei Software zur automatisierten Gesichtserkennung einsetzen dürfen.",
         "Description_DE": "Automatisierte Gesichtserkennung",
-        "Thesis_DE": "An Bahnhöfen soll die Bundespolizei Software zur automatisierten Gesichtserkennung einsetzen dürfen."
+        "Thesis_EN": "The federal police should be allowed to use software for automated facial recognition at train stations.",
+        "Description_EN": "Automated facial recognition"
     },
     {
+        "Thesis_DE": "Energieintensive Unternehmen sollen vom Staat einen finanziellen Ausgleich für ihre Stromkosten erhalten.",
         "Description_DE": "Energieintensive Unternehmen",
-        "Thesis_DE": "Energieintensive Unternehmen sollen vom Staat einen finanziellen Ausgleich für ihre Stromkosten erhalten."
+        "Thesis_EN": "Energy-intensive companies should receive financial compensation from the state for their electricity costs.",
+        "Description_EN": "Energy-intensive companies"
     },
     {
+        "Thesis_DE": "Alle Beschäftigten sollen bereits nach 40 Beitragsjahren ohne Abschläge in Rente gehen können.",
         "Description_DE": "Rente nach 40 Beitragsjahren",
-        "Thesis_DE": "Alle Beschäftigten sollen bereits nach 40 Beitragsjahren ohne Abschläge in Rente gehen können."
+        "Thesis_EN": "All employees should be able to retire after 40 years of contributions without reductions.",
+        "Description_EN": "Pension after 40 years of contributions"
     },
     {
+        "Thesis_DE": "Im einleitenden Satz des Grundgesetzes soll weiterhin die Formulierung „Verantwortung vor Gott“ stehen.",
         "Description_DE": "Grundgesetz",
-        "Thesis_DE": "Im einleitenden Satz des Grundgesetzes soll weiterhin die Formulierung „Verantwortung vor Gott“ stehen."
+        "Thesis_EN": "The introductory sentence of the Basic Law should continue to include the phrase 'responsibility before God'.",
+        "Description_EN": "Basic Law"
     },
     {
+        "Thesis_DE": "Deutschland soll weiterhin die Anwerbung von Fachkräften aus dem Ausland fördern.",
         "Description_DE": "Anwerbung von Fachkräften",
-        "Thesis_DE": "Deutschland soll weiterhin die Anwerbung von Fachkräften aus dem Ausland fördern."
+        "Thesis_EN": "Germany should continue to promote the recruitment of skilled workers from abroad.",
+        "Description_EN": "Recruitment of skilled workers"
     },
     {
+        "Thesis_DE": "Für die Stromerzeugung soll Deutschland wieder Kernenergie nutzen.",
         "Description_DE": "Nutzung der Kernenergie",
-        "Thesis_DE": "Für die Stromerzeugung soll Deutschland wieder Kernenergie nutzen."
+        "Thesis_EN": "Germany should use nuclear energy again to generate electricity.",
+        "Description_EN": "Use of nuclear energy"
     },
     {
+        "Thesis_DE": "Bei der Besteuerung von Einkommen soll der Spitzensteuersatz angehoben werden.",
         "Description_DE": "Anhebung des Spitzensteuersatzes",
-        "Thesis_DE": "Bei der Besteuerung von Einkommen soll der Spitzensteuersatz angehoben werden."
+        "Thesis_EN": "The top tax rate should be raised for income taxation.",
+        "Description_EN": "Raising the top tax rate"
     },
     {
+        "Thesis_DE": "Der Bund soll mehr Kompetenzen in der Schulpolitik erhalten.",
         "Description_DE": "Kompetenzen in der Schulpolitik",
-        "Thesis_DE": "Der Bund soll mehr Kompetenzen in der Schulpolitik erhalten."
+        "Thesis_EN": "The federal government should be given more powers in school policy.",
+        "Description_EN": "Competencies in school policy"
     },
     {
+        "Thesis_DE": "Aus Deutschland sollen weiterhin Rüstungsgüter nach Israel exportiert werden dürfen.",
         "Description_DE": "Rüstungsexporte nach Israel",
-        "Thesis_DE": "Aus Deutschland sollen weiterhin Rüstungsgüter nach Israel exportiert werden dürfen."
+        "Thesis_EN": "Germany should continue to be allowed to export armaments to Israel.",
+        "Description_EN": "Arms exports to Israel"
     },
     {
+        "Thesis_DE": "Alle Bürgerinnen und Bürger sollen in gesetzlichen Krankenkassen versichert sein müssen.",
         "Description_DE": "Krankenkassen",
-        "Thesis_DE": "Alle Bürgerinnen und Bürger sollen in gesetzlichen Krankenkassen versichert sein müssen."
+        "Thesis_EN": "All citizens should have to be insured in statutory health insurance funds.",
+        "Description_EN": "Health insurance funds"
     },
     {
+        "Thesis_DE": "Die gesetzliche Frauenquote in Vorständen und Aufsichtsräten börsennotierter Unternehmen soll abgeschafft werden.",
         "Description_DE": "Abschaffung der Frauenquote",
-        "Thesis_DE": "Die gesetzliche Frauenquote in Vorständen und Aufsichtsräten börsennotierter Unternehmen soll abgeschafft werden."
+        "Thesis_EN": "The statutory quota for women on the management and supervisory boards of listed companies should be abolished.",
+        "Description_EN": "Abolition of the women's quota"
     },
     {
+        "Thesis_DE": "Ökologische Landwirtschaft soll stärker gefördert werden als konventionelle Landwirtschaft.",
         "Description_DE": "Ökologische Landwirtschaft",
-        "Thesis_DE": "Ökologische Landwirtschaft soll stärker gefördert werden als konventionelle Landwirtschaft."
+        "Thesis_EN": "Organic farming should be promoted more than conventional farming.",
+        "Description_EN": "Organic farming"
     },
     {
+        "Thesis_DE": "Der Bund soll Projekte gegen Rechtsextremismus verstärkt fördern.",
         "Description_DE": "Projekte gegen Rechtsextremismus",
-        "Thesis_DE": "Der Bund soll Projekte gegen Rechtsextremismus verstärkt fördern."
+        "Thesis_EN": "The federal government should provide more funding for projects against right-wing extremism.",
+        "Description_EN": "Projects against right-wing extremism"
     },
     {
+        "Thesis_DE": "Unternehmen sollen weiterhin die Einhaltung der Menschenrechte und des Umweltschutzes bei allen Zulieferern kontrollieren müssen.",
         "Description_DE": "Kontrolle von Zulieferern",
-        "Thesis_DE": "Unternehmen sollen weiterhin die Einhaltung der Menschenrechte und des Umweltschutzes bei allen Zulieferern kontrollieren müssen."
+        "Thesis_EN": "Companies should continue to be required to monitor compliance with human rights and environmental protection by all suppliers.",
+        "Description_EN": "Control of suppliers"
     },
     {
+        "Thesis_DE": "Die Ausbildungsförderung BAföG soll weiterhin abhängig vom Einkommen der Eltern gezahlt werden.",
         "Description_DE": "Elternabhängiges BAföG",
-        "Thesis_DE": "Die Ausbildungsförderung BAföG soll weiterhin abhängig vom Einkommen der Eltern gezahlt werden."
+        "Thesis_EN": "The BAföG education grant should continue to be paid depending on the parents' income.",
+        "Description_EN": "Parent-dependent BAföG"
     },
     {
+        "Thesis_DE": "Die Schuldenbremse im Grundgesetz soll beibehalten werden.",
         "Description_DE": "Schuldenbremse",
-        "Thesis_DE": "Die Schuldenbremse im Grundgesetz soll beibehalten werden."
+        "Thesis_EN": "The debt brake in the Basic Law should be retained.",
+        "Description_EN": "Debt brake"
     },
     {
+        "Thesis_DE": "Asylsuchende sollen in Deutschland sofort nach ihrer Antragstellung eine Arbeitserlaubnis erhalten.",
         "Description_DE": "Arbeitserlaubnis für Asylsuchende",
-        "Thesis_DE": "Asylsuchende sollen in Deutschland sofort nach ihrer Antragstellung eine Arbeitserlaubnis erhalten."
+        "Thesis_EN": "Asylum seekers should receive a work permit in Germany immediately after submitting their application.",
+        "Description_EN": "Work permit for asylum seekers"
     },
     {
+        "Thesis_DE": "Deutschland soll das Ziel verwerfen, klimaneutral zu werden.",
         "Description_DE": "Verwerfen der Klimaziele",
-        "Thesis_DE": "Deutschland soll das Ziel verwerfen, klimaneutral zu werden."
+        "Thesis_EN": "Germany should reject the goal of becoming climate neutral.",
+        "Description_EN": "Rejecting the climate targets"
     },
     {
+        "Thesis_DE": "In Deutschland soll die 35-Stunden-Woche als gesetzliche Regelarbeitszeit für alle Beschäftigten festgelegt werden.",
         "Description_DE": "35-Stunden-Woche",
-        "Thesis_DE": "In Deutschland soll die 35-Stunden-Woche als gesetzliche Regelarbeitszeit für alle Beschäftigten festgelegt werden."
+        "Thesis_EN": "In Germany, the 35-hour week should be set as the statutory standard working time for all employees.",
+        "Description_EN": "35-hour week"
     },
     {
+        "Thesis_DE": "Schwangerschaftsabbrüche sollen in den ersten drei Monaten weiterhin nur nach Beratung straffrei sein.",
         "Description_DE": "Schwangerschaftsabbruch nach Beratung",
-        "Thesis_DE": "Schwangerschaftsabbrüche sollen in den ersten drei Monaten weiterhin nur nach Beratung straffrei sein."
+        "Thesis_EN": "Abortions should continue to be exempt from punishment in the first three months only after counseling.",
+        "Description_EN": "Abortion after counseling"
     },
     {
+        "Thesis_DE": "Der Euro soll in Deutschland durch eine nationale Währung ersetzt werden.",
         "Description_DE": "Nationale Währung",
-        "Thesis_DE": "Der Euro soll in Deutschland durch eine nationale Währung ersetzt werden."
+        "Thesis_EN": "The euro should be replaced by a national currency in Germany.",
+        "Description_EN": "National currency"
     },
     {
+        "Thesis_DE": "Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Straße haben.",
         "Description_DE": "Schiene vor Straße",
-        "Thesis_DE": "Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Straße haben."
+        "Thesis_EN": "Rail should have priority over road when expanding the transport infrastructure.",
+        "Description_EN": "Rail before road"
     },
     {
+        "Thesis_DE": "Ehrenamtliche Tätigkeiten sollen auf die zukünftige Rente angerechnet werden.",
         "Description_DE": "Ehrenamt",
-        "Thesis_DE": "Ehrenamtliche Tätigkeiten sollen auf die zukünftige Rente angerechnet werden."
+        "Thesis_EN": "Voluntary work should be counted towards the future pension.",
+        "Description_EN": "Voluntary work"
     },
     {
+        "Thesis_DE": "Die Grundsteuer soll weiterhin auf Mieterinnen und Mieter umgelegt werden dürfen.",
         "Description_DE": "Umlegung der Grundsteuer",
-        "Thesis_DE": "Die Grundsteuer soll weiterhin auf Mieterinnen und Mieter umgelegt werden dürfen."
+        "Thesis_EN": "Property tax should continue to be passed on to tenants.",
+        "Description_EN": "Apportionment of property tax"
     },
     {
+        "Thesis_DE": "Das Streikrecht für Beschäftigte in Unternehmen der kritischen Infrastruktur soll gesetzlich eingeschränkt werden.",
         "Description_DE": "Einschränkung des Streikrechts",
-        "Thesis_DE": "Das Streikrecht für Beschäftigte in Unternehmen der kritischen Infrastruktur soll gesetzlich eingeschränkt werden."
+        "Thesis_EN": "The right to strike for employees in critical infrastructure companies should be restricted by law.",
+        "Description_EN": "Restriction of the right to strike"
     },
     {
+        "Thesis_DE": "In Deutschland soll es auf Bundesebene Volksentscheide geben können.",
         "Description_DE": "Volksentscheide",
-        "Thesis_DE": "In Deutschland soll es auf Bundesebene Volksentscheide geben können."
+        "Thesis_EN": "In Germany, it should be possible to hold referendums at federal level.",
+        "Description_EN": "Referendums"
     },
     {
+        "Thesis_DE": "Unter 14-Jährige sollen strafrechtlich belangt werden können.",
         "Description_DE": "Strafrecht für unter 14-Jährige",
-        "Thesis_DE": "Unter 14-Jährige sollen strafrechtlich belangt werden können."
+        "Thesis_EN": "Under 14-year-olds should be able to be prosecuted under criminal law.",
+        "Description_EN": "Criminal law for under 14-year-olds"
     },
     {
+        "Thesis_DE": "Deutschland soll sich für die Abschaffung der erhöhten EU-Zölle auf chinesische Elektroautos einsetzen.",
         "Description_DE": "Abschaffung von Zöllen",
-        "Thesis_DE": "Deutschland soll sich für die Abschaffung der erhöhten EU-Zölle auf chinesische Elektroautos einsetzen."
+        "Thesis_EN": "Germany should campaign for the abolition of increased EU tariffs on Chinese electric cars.",
+        "Description_EN": "Abolition of customs duties"
     },
     {
+        "Thesis_DE": "In Deutschland soll es weiterhin generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben.",
         "Description_DE": "Zweite Staatsbürgerschaft",
-        "Thesis_DE": "In Deutschland soll es weiterhin generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben."
+        "Thesis_EN": "In Germany, it should continue to be generally possible to have a second citizenship in addition to German citizenship.",
+        "Description_EN": "Second citizenship"
     },
     {
+        "Thesis_DE": "Für junge Erwachsene soll ein soziales Pflichtjahr eingeführt werden.",
         "Description_DE": "Soziales Pflichtjahr",
-        "Thesis_DE": "Für junge Erwachsene soll ein soziales Pflichtjahr eingeführt werden."
+        "Thesis_EN": "A compulsory year of social service should be introduced for young adults.",
+        "Description_EN": "Compulsory social year"
     },
     {
+        "Thesis_DE": "Neue Heizungen sollen auch zukünftig vollständig mit fossilen Brennstoffen (z. B. Gas oder Öl) betrieben werden dürfen.",
         "Description_DE": "Fossile Brennstoffe",
-        "Thesis_DE": "Neue Heizungen sollen auch zukünftig vollständig mit fossilen Brennstoffen (z. B. Gas oder Öl) betrieben werden dürfen."
+        "Thesis_EN": "New heating systems should also be allowed to run entirely on fossil fuels (e.g. gas or oil) in future.",
+        "Description_EN": "Fossil fuels"
     },
     {
+        "Thesis_DE": "Der gesetzliche Mindestlohn soll spätestens 2026 auf 15 Euro erhöht werden.",
         "Description_DE": "Erhöhung des Mindestlohns",
-        "Thesis_DE": "Der gesetzliche Mindestlohn soll spätestens 2026 auf 15 Euro erhöht werden."
+        "Thesis_EN": "The statutory minimum wage should be increased to 15 euros by 2026 at the latest.",
+        "Description_EN": "Increase in the minimum wage"
     }
 ]
