@@ -1,230 +1,154 @@
 [
     {
-        "Thesis_DE": "Die EU soll eigene Steuern erheben dürfen.",
-        "Description_DE": "EU-Steuern",
-        "Thesis_EN": "The EU should be allowed to levy its own taxes.",
-        "Description_EN": "EU Taxes"
+        "Description_DE": "Unterstützung der Ukraine",
+        "Thesis_DE": "Deutschland soll die Ukraine weiterhin militärisch unterstützen."
     },
     {
-        "Thesis_DE": "Fahrzeuge mit Verbrennungsmotoren sollen auch nach 2035 in der EU neu zugelassen werden können.",
-        "Description_DE": "Verbrennungsmotoren",
-        "Thesis_EN": "Vehicles with combustion engines should still be able to be registered in the EU after 2035.",
-        "Description_EN": "Combustion Engines"
+        "Description_DE": "Erneuerbare Energien",
+        "Thesis_DE": "Der Ausbau erneuerbarer Energien soll weiterhin vom Staat finanziell gefördert werden."
     },
     {
-        "Thesis_DE": "Die EU soll eine eigene Seenotrettung im Mittelmeer aufbauen.",
-        "Description_DE": "Seenotrettung",
-        "Thesis_EN": "The EU should establish its own search and rescue mission in the Mediterranean.",
-        "Description_EN": "Sea Rescue"
+        "Description_DE": "Streichung des Bürgergelds",
+        "Thesis_DE": "Das Bürgergeld soll denjenigen gestrichen werden, die wiederholt Stellenangebote ablehnen."
     },
     {
-        "Thesis_DE": "Die Ukraine soll Mitglied der EU werden.",
-        "Description_DE": "EU-Mitgliedschaft der Ukraine",
-        "Thesis_EN": "Ukraine should become a member of the EU.",
-        "Description_EN": "EU Membership of Ukraine"
+        "Description_DE": "Tempolimit auf Autobahnen",
+        "Thesis_DE": "Auf allen Autobahnen soll ein generelles Tempolimit gelten."
     },
     {
-        "Thesis_DE": "Die EU soll vorrangig ökologische Landwirtschaft fördern.",
+        "Description_DE": "Abweisung Asylsuchender",
+        "Thesis_DE": "Asylsuchende, die über einen anderen EU-Staat eingereist sind, sollen an den deutschen Grenzen abgewiesen werden."
+    },
+    {
+        "Description_DE": "Begrenzung der Mietpreise",
+        "Thesis_DE": "Bei Neuvermietungen sollen die Mietpreise weiterhin gesetzlich begrenzt werden."
+    },
+    {
+        "Description_DE": "Automatisierte Gesichtserkennung",
+        "Thesis_DE": "An Bahnhöfen soll die Bundespolizei Software zur automatisierten Gesichtserkennung einsetzen dürfen."
+    },
+    {
+        "Description_DE": "Energieintensive Unternehmen",
+        "Thesis_DE": "Energieintensive Unternehmen sollen vom Staat einen finanziellen Ausgleich für ihre Stromkosten erhalten."
+    },
+    {
+        "Description_DE": "Rente nach 40 Beitragsjahren",
+        "Thesis_DE": "Alle Beschäftigten sollen bereits nach 40 Beitragsjahren ohne Abschläge in Rente gehen können."
+    },
+    {
+        "Description_DE": "Grundgesetz",
+        "Thesis_DE": "Im einleitenden Satz des Grundgesetzes soll weiterhin die Formulierung „Verantwortung vor Gott“ stehen."
+    },
+    {
+        "Description_DE": "Anwerbung von Fachkräften",
+        "Thesis_DE": "Deutschland soll weiterhin die Anwerbung von Fachkräften aus dem Ausland fördern."
+    },
+    {
+        "Description_DE": "Nutzung der Kernenergie",
+        "Thesis_DE": "Für die Stromerzeugung soll Deutschland wieder Kernenergie nutzen."
+    },
+    {
+        "Description_DE": "Anhebung des Spitzensteuersatzes",
+        "Thesis_DE": "Bei der Besteuerung von Einkommen soll der Spitzensteuersatz angehoben werden."
+    },
+    {
+        "Description_DE": "Kompetenzen in der Schulpolitik",
+        "Thesis_DE": "Der Bund soll mehr Kompetenzen in der Schulpolitik erhalten."
+    },
+    {
+        "Description_DE": "Rüstungsexporte nach Israel",
+        "Thesis_DE": "Aus Deutschland sollen weiterhin Rüstungsgüter nach Israel exportiert werden dürfen."
+    },
+    {
+        "Description_DE": "Krankenkassen",
+        "Thesis_DE": "Alle Bürgerinnen und Bürger sollen in gesetzlichen Krankenkassen versichert sein müssen."
+    },
+    {
+        "Description_DE": "Abschaffung der Frauenquote",
+        "Thesis_DE": "Die gesetzliche Frauenquote in Vorständen und Aufsichtsräten börsennotierter Unternehmen soll abgeschafft werden."
+    },
+    {
         "Description_DE": "Ökologische Landwirtschaft",
-        "Thesis_EN": "The EU should prioritize the promotion of organic farming.",
-        "Description_EN": "Organic Farming"
+        "Thesis_DE": "Ökologische Landwirtschaft soll stärker gefördert werden als konventionelle Landwirtschaft."
     },
     {
-        "Thesis_DE": "In Deutschland soll der Euro durch eine nationale Währung ersetzt werden.",
-        "Description_DE": "Nationale Währung",
-        "Thesis_EN": "Germany should replace the Euro with a national currency.",
-        "Description_EN": "National Currency"
+        "Description_DE": "Projekte gegen Rechtsextremismus",
+        "Thesis_DE": "Der Bund soll Projekte gegen Rechtsextremismus verstärkt fördern."
     },
     {
-        "Thesis_DE": "Die EU soll den Mitgliedstaaten empfehlen, außer „weiblich“ und „männlich“ auch die Eintragung einer anderen Geschlechtsidentität im Pass zu ermöglichen.",
-        "Description_DE": "Geschlechtsidentität im Pass",
-        "Thesis_EN": "The EU should recommend to its member states to allow the registration of another gender identity besides 'female' and 'male' in passports.",
-        "Description_EN": "Gender Identity in Passports"
+        "Description_DE": "Kontrolle von Zulieferern",
+        "Thesis_DE": "Unternehmen sollen weiterhin die Einhaltung der Menschenrechte und des Umweltschutzes bei allen Zulieferern kontrollieren müssen."
     },
     {
-        "Thesis_DE": "Die Jagd auf Wölfe soll in Regionen erlaubt sein, in denen der Bestand dadurch nicht gefährdet ist.",
-        "Description_DE": "Jagd auf Wölfe",
-        "Thesis_EN": "Wolf hunting should be allowed in regions where it does not endanger the population.",
-        "Description_EN": "Wolf Hunting"
+        "Description_DE": "Elternabhängiges BAföG",
+        "Thesis_DE": "Die Ausbildungsförderung BAföG soll weiterhin abhängig vom Einkommen der Eltern gezahlt werden."
     },
     {
-        "Thesis_DE": "Beim Bau neuer Wohngebäude in der EU soll die Errichtung von Photovoltaikanlagen verpflichtend sein.",
-        "Description_DE": "Photovoltaik für Wohngebäude",
-        "Thesis_EN": "The construction of photovoltaic systems should be mandatory for new residential buildings in the EU.",
-        "Description_EN": "Photovoltaics for Residential Buildings"
+        "Description_DE": "Schuldenbremse",
+        "Thesis_DE": "Die Schuldenbremse im Grundgesetz soll beibehalten werden."
     },
     {
-        "Thesis_DE": "Mehr außenpolitische Entscheidungen der EU sollen mit Mehrheit statt einstimmig getroffen werden.",
-        "Description_DE": "Außenpolitische Entscheidungen",
-        "Thesis_EN": "More EU foreign policy decisions should be taken by majority vote instead of unanimously.",
-        "Description_EN": "Foreign Policy Decisions"
+        "Description_DE": "Arbeitserlaubnis für Asylsuchende",
+        "Thesis_DE": "Asylsuchende sollen in Deutschland sofort nach ihrer Antragstellung eine Arbeitserlaubnis erhalten."
     },
     {
-        "Thesis_DE": "Der Flugzeugtreibstoff Kerosin soll für Flüge in der EU steuerfrei sein.",
-        "Description_DE": "Flugzeugtreibstoff",
-        "Thesis_EN": "Aviation fuel kerosene should be tax-exempt for flights in the EU.",
-        "Description_EN": "Aviation Fuel"
-    },
-    {
-        "Thesis_DE": "Die gemeinsame europäische Polizeibehörde Europol soll weitere Befugnisse erhalten.",
-        "Description_DE": "Europol",
-        "Thesis_EN": "The European police agency Europol should be granted additional powers.",
-        "Description_EN": "Europol"
-    },
-    {
-        "Thesis_DE": "Die EU soll länderübergreifende, mehrsprachige Angebote des öffentlich-rechtlichen Rundfunks stärker finanziell fördern.",
-        "Description_DE": "Öffentlich-rechtlicher Rundfunk",
-        "Thesis_EN": "The EU should provide stronger financial support for cross-border, multilingual offerings of public broadcasting.",
-        "Description_EN": "Public Broadcasting"
-    },
-    {
-        "Thesis_DE": "Die EU soll das Ziel verwerfen, klimaneutral zu werden.",
         "Description_DE": "Verwerfen der Klimaziele",
-        "Thesis_EN": "The EU should abandon the goal of becoming climate neutral.",
-        "Description_EN": "Abandoning Climate Goals"
+        "Thesis_DE": "Deutschland soll das Ziel verwerfen, klimaneutral zu werden."
     },
     {
-        "Thesis_DE": "Bei den Wahlen zum Europäischen Parlament sollen die Parteien weiterhin frei entscheiden können, wie groß der Anteil der Geschlechter auf ihren Listen ist.",
-        "Description_DE": "Geschlechteranteil auf Wahllisten",
-        "Thesis_EN": "In European Parliament elections, parties should continue to have the freedom to decide the gender balance on their lists.",
-        "Description_EN": "Gender Balance on Electoral Lists"
+        "Description_DE": "35-Stunden-Woche",
+        "Thesis_DE": "In Deutschland soll die 35-Stunden-Woche als gesetzliche Regelarbeitszeit für alle Beschäftigten festgelegt werden."
     },
     {
-        "Thesis_DE": "Die EU soll Vorgaben für die Höhe der sozialen Grundsicherung in den Mitgliedstaaten machen.",
-        "Description_DE": "Soziale Grundsicherung",
-        "Thesis_EN": "The EU should set standards for the level of social security in its member states.",
-        "Description_EN": "Social Welfare Standards"
+        "Description_DE": "Schwangerschaftsabbruch nach Beratung",
+        "Thesis_DE": "Schwangerschaftsabbrüche sollen in den ersten drei Monaten weiterhin nur nach Beratung straffrei sein."
     },
     {
-        "Thesis_DE": "Betreiber sozialer Netzwerke sollen frei entscheiden dürfen, wie sie mit Desinformation auf ihren Plattformen umgehen.",
-        "Description_DE": "Desinformation in sozialen Netzwerken",
-        "Thesis_EN": "Operators of social networks should be allowed to freely decide how to deal with disinformation on their platforms.",
-        "Description_EN": "Disinformation in Social Networks"
+        "Description_DE": "Nationale Währung",
+        "Thesis_DE": "Der Euro soll in Deutschland durch eine nationale Währung ersetzt werden."
     },
     {
-        "Thesis_DE": "In der EU sollen mehr Flächen als Naturschutzgebiete ausgewiesen werden.",
-        "Description_DE": "Naturschutzgebiete",
-        "Thesis_EN": "More areas in the EU should be designated as nature reserves.",
-        "Description_EN": "Nature Reserves"
+        "Description_DE": "Schiene vor Straße",
+        "Thesis_DE": "Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Straße haben."
     },
     {
-        "Thesis_DE": "EU-Fördermittel für Mitgliedstaaten, die Regeln und Werte der EU verletzen, sollen weiterhin zurückgehalten werden.",
-        "Description_DE": "Regeln und Werte der EU",
-        "Thesis_EN": "EU funding for member states that violate EU rules and values should continue to be withheld.",
-        "Description_EN": "EU Rules and Values"
+        "Description_DE": "Ehrenamt",
+        "Thesis_DE": "Ehrenamtliche Tätigkeiten sollen auf die zukünftige Rente angerechnet werden."
     },
     {
-        "Thesis_DE": "Die EU soll mehr Waffen für die Ukraine finanzieren.",
-        "Description_DE": "Waffen für die Ukraine",
-        "Thesis_EN": "The EU should finance more weapons for Ukraine.",
-        "Description_EN": "Weapons for Ukraine"
+        "Description_DE": "Umlegung der Grundsteuer",
+        "Thesis_DE": "Die Grundsteuer soll weiterhin auf Mieterinnen und Mieter umgelegt werden dürfen."
     },
     {
-        "Thesis_DE": "Die zulässige Menge an Fischen, die in EU-Gewässern gefangen werden dürfen, soll gesenkt werden.",
-        "Description_DE": "Senkung der Fischfangquoten",
-        "Thesis_EN": "The allowable amount of fish that can be caught in EU waters should be reduced.",
-        "Description_EN": "Reduction of Fishing Quotas"
+        "Description_DE": "Einschränkung des Streikrechts",
+        "Thesis_DE": "Das Streikrecht für Beschäftigte in Unternehmen der kritischen Infrastruktur soll gesetzlich eingeschränkt werden."
     },
     {
-        "Thesis_DE": "Die Einfuhrzölle der EU auf chinesische Elektroautos sollen erhöht werden.",
-        "Description_DE": "Einfuhrzölle auf Elektroautos",
-        "Thesis_EN": "The EU's import tariffs on Chinese electric cars should be increased.",
-        "Description_EN": "Import Tariffs on Electric Cars"
+        "Description_DE": "Volksentscheide",
+        "Thesis_DE": "In Deutschland soll es auf Bundesebene Volksentscheide geben können."
     },
     {
-        "Thesis_DE": "Die EU soll sich dafür einsetzen, dass Schwangerschaftsabbrüche in allen Mitgliedstaaten straffrei möglich sind.",
-        "Description_DE": "Schwangerschaftsabbrüche",
-        "Thesis_EN": "The EU should advocate for abortion to be decriminalized and freely available in all member states.",
-        "Description_EN": "Abortions"
+        "Description_DE": "Strafrecht für unter 14-Jährige",
+        "Thesis_DE": "Unter 14-Jährige sollen strafrechtlich belangt werden können."
     },
     {
-        "Thesis_DE": "Es sollen wieder dauerhafte Grenzkontrollen zwischen den Mitgliedstaaten der EU stattfinden.",
-        "Description_DE": "Dauerhafte Grenzkontrollen",
-        "Thesis_EN": "Permanent border controls should be reinstated between EU member states.",
-        "Description_EN": "Permanent Border Controls"
+        "Description_DE": "Abschaffung von Zöllen",
+        "Thesis_DE": "Deutschland soll sich für die Abschaffung der erhöhten EU-Zölle auf chinesische Elektroautos einsetzen."
     },
     {
-        "Thesis_DE": "Die Aufnahme neuer Staaten in die EU soll in allen Mitgliedstaaten durch Volksabstimmungen bestätigt werden müssen.",
-        "Description_DE": "Volksabstimmung bei neuen Mitgliedern",
-        "Thesis_EN": "The accession of new states to the EU should be confirmed by referendums in all member states.",
-        "Description_EN": "Referendums on New EU Members"
+        "Description_DE": "Zweite Staatsbürgerschaft",
+        "Thesis_DE": "In Deutschland soll es weiterhin generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben."
     },
     {
-        "Thesis_DE": "Die EU soll den Anbau von weiteren gentechnisch veränderten Pflanzensorten erlauben.",
-        "Description_DE": "Gentechnisch veränderte Pflanzen",
-        "Thesis_EN": "The EU should allow the cultivation of additional genetically modified plant varieties.",
-        "Description_EN": "Genetically Modified Plants"
+        "Description_DE": "Soziales Pflichtjahr",
+        "Thesis_DE": "Für junge Erwachsene soll ein soziales Pflichtjahr eingeführt werden."
     },
     {
-        "Thesis_DE": "Geschlechtsspezifische Gewalt gegen Frauen soll europaweit als Asylgrund anerkannt werden.",
-        "Description_DE": "Gewalt gegen Frauen",
-        "Thesis_EN": "Gender-based violence against women should be recognized as grounds for asylum across Europe.",
-        "Description_EN": "Violence Against Women"
+        "Description_DE": "Fossile Brennstoffe",
+        "Thesis_DE": "Neue Heizungen sollen auch zukünftig vollständig mit fossilen Brennstoffen (z. B. Gas oder Öl) betrieben werden dürfen."
     },
     {
-        "Thesis_DE": "Urheberrechtlich geschützte Werke (z.B. Fotos, Musik, Literatur) sollen in der EU für nicht-kommerzielle Zwecke kostenlos verwendet werden dürfen.",
-        "Description_DE": "Urheberschutz",
-        "Thesis_EN": "Copyrighted works (e.g. photos, music, literature) should be allowed to be used for non-commercial purposes free of charge in the EU.",
-        "Description_EN": "Copyright Protection"
-    },
-    {
-        "Thesis_DE": "Die Sanktionen der EU gegen Russland sollen abgebaut werden.",
-        "Description_DE": "Abbau der Sanktionen gegen Russland",
-        "Thesis_EN": "The EU sanctions against Russia should be lifted.",
-        "Description_EN": "Lifting Sanctions on Russia"
-    },
-    {
-        "Thesis_DE": "Das Erasmus+ Stipendium für Auslandsaufenthalte soll für Studierende, die über weniger finanzielle Mittel verfügen, höher sein.",
-        "Description_DE": "Erasmus+ Stipendium",
-        "Thesis_EN": "The Erasmus+ scholarship for study abroad programs should be higher for students with fewer financial means.",
-        "Description_EN": "Erasmus+ Scholarship"
-    },
-    {
-        "Thesis_DE": "Die EU soll Atomkraft weiterhin als nachhaltige Energiequelle einstufen.",
-        "Description_DE": "Atomkraft",
-        "Thesis_EN": "The EU should continue to classify nuclear power as a sustainable energy source.",
-        "Description_EN": "Nuclear Power"
-    },
-    {
-        "Thesis_DE": "Die Einwanderung von Fachkräften in die EU soll vereinfacht werden.",
-        "Description_DE": "Einwanderung von Fachkräften",
-        "Thesis_EN": "Immigration of skilled workers to the EU should be simplified.",
-        "Description_EN": "Skilled Workers Immigration"
-    },
-    {
-        "Thesis_DE": "Die Beteiligung außereuropäischer Investoren an Unternehmen im Bereich kritischer Infrastruktur soll in der EU stärker beschränkt werden.",
-        "Description_DE": "Kritische Infrastruktur",
-        "Thesis_EN": "The participation of non-European investors in companies in critical infrastructure sectors should be more strictly regulated in the EU.",
-        "Description_EN": "Critical Infrastructure"
-    },
-    {
-        "Thesis_DE": "Der Präsident bzw. die Präsidentin der Europäischen Kommission soll von den Bürgerinnen und Bürgern direkt gewählt werden.",
-        "Description_DE": "Direktwahl",
-        "Thesis_EN": "The President of the European Commission should be directly elected by the citizens.",
-        "Description_EN": "Direct Election"
-    },
-    {
-        "Thesis_DE": "In der EU sollen Unternehmen mehr für den Ausstoß von CO₂ zahlen müssen.",
-        "Description_DE": "Preis für den Ausstoß von CO₂",
-        "Thesis_EN": "Companies in the EU should pay more for emitting CO₂.",
-        "Description_EN": "Price for Carbon Emissions"
-    },
-    {
-        "Thesis_DE": "Asylbewerberinnen und -bewerber sollen ihren Antrag vor Überschreiten der EU-Außengrenze stellen müssen und dort auf das Ergebnis warten.",
-        "Description_DE": "Asylanträge an der EU-Außengrenze",
-        "Thesis_EN": "Asylum seekers should be required to submit their application before crossing the EU external border and wait there for the result.",
-        "Description_EN": "Asylum Applications at EU External Borders"
-    },
-    {
-        "Thesis_DE": "Die EU soll weiterhin in gemeinsame europäische Rüstungsprojekte investieren.",
-        "Description_DE": "EU-Rüstungsprojekte",
-        "Thesis_EN": "The EU should continue to invest in joint European defense projects.",
-        "Description_EN": "EU Defense Projects"
-    },
-    {
-        "Thesis_DE": "Das Europäische Parlament soll weiterhin eine zentrale Rolle in der EU spielen.",
-        "Description_DE": "Rolle des EU-Parlaments",
-        "Thesis_EN": "The European Parliament should continue to play a central role in the EU.",
-        "Description_EN": "Role of the EU Parliament"
+        "Description_DE": "Erhöhung des Mindestlohns",
+        "Thesis_DE": "Der gesetzliche Mindestlohn soll spätestens 2026 auf 15 Euro erhöht werden."
     }
 ]
